@@ -28,7 +28,7 @@
 
 <div align="center">
 <strong><i>Python Versions Available for This Code</i></strong>
-
+</div>
 
 <a href="https://pypi.python.org/pypi/discord.py">
     <img src="https://img.shields.io/pypi/pyversions/discord.py.svg" alt="Python Version">
@@ -39,3 +39,8 @@
 **Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)**
 
 ## Installation and Module Installation
+
+<div align="center">
+  <img src="https://i.imgur.com/gNXNj0o.png" align="center">
+<br>
+</div>
