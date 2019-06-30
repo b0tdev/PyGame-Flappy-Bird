@@ -101,3 +101,9 @@ Then Extract The Files Via
   <img src="https://i.imgur.com/xDg7m24.png" align="center">
 <br>
 </div>
+
+***
+
+### Contributors
+
+[![Contributors](https://counter.modmail-plugins.ionadev.ml/contributors)](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
