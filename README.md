@@ -7,6 +7,7 @@
   <strong><i>A Classic Old Flappy_Bird Game.</i></strong>
   <br>
   <br>
+</div>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE)
 
@@ -23,7 +24,6 @@
 
 <br>
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
-</div>
 
 <br>
 
