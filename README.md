@@ -30,9 +30,11 @@
 <strong><i>Python Versions Available for This Code</i></strong>
 </div>
 
+<div align="center">
 <a href="https://pypi.python.org/pypi/discord.py">
     <img src="https://img.shields.io/pypi/pyversions/discord.py.svg" alt="Python Version">
   </a>
+</div>
 
 ### About The Game
 
