@@ -16,6 +16,17 @@
     <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT License">
   </a>
 
+<a href="https://discord.gg/uu6W23B">
+    <img src="https://img.shields.io/discord/515071617815019520.svg?style=for-the-badge&colorB=7289DA" alt="Support">
+  </a>
+
+<br>
+<img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
+</div>
+
+<br>
+
+<strong><i>Python Versions Available for This Code</i></strong>
 <a href="https://pypi.python.org/pypi/discord.py">
     <img src="https://img.shields.io/pypi/pyversions/discord.py.svg" alt="Python Version">
   </a>
