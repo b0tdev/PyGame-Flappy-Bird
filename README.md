@@ -104,6 +104,12 @@ Then Extract The Files Via
 
 ***
 
-### Contributors
+### Contributors and Issue
 
-[![Contributors](https://counter.b0tdev.ionadev.ml/contributors)](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
+**Contributors**
+
+_We Expecte More contributors. To Become Contributor Just Pull Request!!_
+
+**Issue**
+
+_If any Issue regarding tjis Repo/Code Please Let us Know_
