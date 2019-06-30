@@ -82,7 +82,7 @@ Then Click that Download Zip Option
 <br>
 </div>
 
-Then Extract The Viles Via
+Then Extract The Files Via
 
 * Zarchiever(pc version)
 * Ex File Explorer
