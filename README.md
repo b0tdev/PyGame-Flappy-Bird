@@ -8,11 +8,6 @@
   <br>
   <br>
 
-<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/">	
-    <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
-  </a>
-
-
 <br>
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
 </div>
