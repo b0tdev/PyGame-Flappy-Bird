@@ -106,4 +106,4 @@ Then Extract The Files Via
 
 ### Contributors
 
-[![Contributors](https://counter.modmail-plugins.ionadev.ml/contributors)](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
+[![Contributors](https://counter.b0tdev.ionadev.ml/contributors)](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
