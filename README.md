@@ -68,4 +68,35 @@ _Run This Command_
 
 `pip install Pygame`
 
-**After Completion Download These Files A Bulk Folder Link Below**
+After Completion Click Clone or dowmload Button on this Repo
+
+<div align="center">
+  <img src="https://i.imgur.com/1ZuOt3d.png" align="center">
+<br>
+</div>
+
+Then Click that Download Zip Option
+
+<div align="center">
+  <img src="https://i.imgur.com/eERdX0b.png" align="center">
+<br>
+</div>
+
+Then Extract The Viles Via
+
+* Zarchiever(pc version)
+* Ex File Explorer
+
+**For Mobile Users I will Create an Another Rep**
+
+### Courtesy
+
+Images :- [kyb3r](https://github.com/kyb3r)
+Code Associate :- Vennice#0303
+
+***
+
+<div align="center">
+  <img src="https://i.imgur.com/xDg7m24.png" align="center">
+<br>
+</div>
