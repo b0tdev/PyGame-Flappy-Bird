@@ -97,13 +97,6 @@ Then Extract The Files Via
 
 ***
 
-<div align="center">
-  <img src="https://i.imgur.com/xDg7m24.png" align="center">
-<br>
-</div>
-
-***
-
 ### Contributors and Issue
 
 **Contributors**
@@ -112,4 +105,9 @@ _We Expecte More contributors. To Become Contributor Just Pull Request!!_
 
 **Issue**
 
-_If any Issue regarding tjis Repo/Code Please Let us Know_
+_If any Issue regarding this Repo/Code Please Let us Know_
+
+<div align="center">
+  <img src="https://i.imgur.com/xDg7m24.png" align="center">
+<br>
+</div>
