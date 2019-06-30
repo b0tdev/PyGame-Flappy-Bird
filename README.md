@@ -77,9 +77,6 @@ Then Extract The Files Via
 
 **For Mobile Users I will Create an Another Rep**
 
-### Courtesy
-
-**Images :- [kyb3r](https://github.com/kyb3r)**
 
 **Code Associate :- Vennice#0303**
 
