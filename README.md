@@ -8,6 +8,6 @@
   <br>
   <br>
 
-<a href="https://github.com/kyb3r/modmail/">	
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/">	
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
   </a>
