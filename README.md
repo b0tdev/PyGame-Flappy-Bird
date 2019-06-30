@@ -44,3 +44,9 @@
   <img src="https://i.imgur.com/gNXNj0o.png" align="center">
 <br>
 </div>
+
+_Run This Command_
+
+`pip install Pygame`
+
+**After Completion Download These Files A Bulk Folder Link Below**
