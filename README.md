@@ -42,11 +42,12 @@
 
 <strong>Install Python 3.7.3(March Release) and PyCharm Below</strong>
 <br>
+
 [Python 3.7.3](https://www.python.org/ftp/python/3.7.3/Python-3.7.3.tgz)
 
 [PyCharm](https://download.jetbrains.com/python/pycharm-professional-2019.1.3.tar.gz)
 
-* **Installation Guide for PyCharm*
+* **Installation Guide for PyCharm**
 
   * Copy the pycharm-2019.1.3.tar.gz to the desired installation location 
 (make sure you have rw permissions for that directory)
