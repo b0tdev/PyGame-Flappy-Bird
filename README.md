@@ -10,6 +10,17 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE)
 
+[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
+
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/b0tdev/PyGame-Flappy-Bird/issues)
+
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/b0tdev/PyGame-Flappy-Bird)
+
+[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)
+
+
 <br>
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
 </div>
