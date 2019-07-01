@@ -84,13 +84,13 @@ Then Extract The Files Via
 * Zarchiever(pc version)
 * Ex File Explorer
 
-**For Mobile Users I will Create an Another Rep**
+**For Mobile Users Please Visit [WIKI](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
 
 ### Associater and Notes
 
 **Code Associate :- Vennice#0303**
 
-**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/README.mobile.md)**
+**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
 
 ***
 
