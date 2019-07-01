@@ -33,7 +33,7 @@
 <div align="center">
 <strong><i>Python Versions Available for This Code</i></strong>
 
-[![PyPi Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)](https://pypi.python.org/pypi/yt2mp3/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge)
 
 </div
 
