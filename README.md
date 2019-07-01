@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/github/repo-size/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
+![GitHub contributors](https://img.shields.io/github/contributors/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge)
+
 </div>
 
 <div align="center">
