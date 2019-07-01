@@ -35,7 +35,7 @@
 <div align="center">
 <strong><i>Python Versions Available for This Code</i></strong>
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge)
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge">
 
 </div
 
