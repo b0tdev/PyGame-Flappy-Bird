@@ -35,13 +35,10 @@
 <div align="center">
 <strong><i>Python Versions Available for This Code</i></strong>
 
-<a href="https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge">
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge">
-</a>
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge)
 </div
 
-### About The Game
-
+# About The Game
 
 **Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)**
 
