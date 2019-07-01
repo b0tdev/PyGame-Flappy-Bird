@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/github/stars/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
-<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE">
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird.git">
   <img src="https://img.shields.io/github/repo-size/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
