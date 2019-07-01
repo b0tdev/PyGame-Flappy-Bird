@@ -86,12 +86,15 @@ Then Extract The Files Via
 
 **For Mobile Users I will Create an Another Rep**
 
+### Associater and Notes
 
 **Code Associate :- Vennice#0303**
 
+**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/README.mobile.md)
+
 ***
 
-### Contributors and Issue
+### Contributors and Issue Note
 
 **Contributors**
 
