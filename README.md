@@ -90,7 +90,7 @@ Then Extract The Files Via
 
 **Code Associate :- Vennice#0303**
 
-**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/README.mobile.md)
+**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/README.mobile.md)**
 
 ***
 
