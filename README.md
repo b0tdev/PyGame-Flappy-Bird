@@ -26,6 +26,10 @@
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird.git">
   <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Django.svg?style=for-the-badge">
 </a>
+
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/pulls">
+  <img alt="Pull_Req" src="https://img.shields.io/github/issues-pr/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
+</a>
 </div>
 
 <div align="center">
