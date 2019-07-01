@@ -32,13 +32,7 @@
 <br>
 </div>
 
-<div align="center">
-<strong><i>Python Versions Available for This Code</i></strong>
-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Py.svg?style=for-the-badge)
-</div
-
-# About The Game
+# About This Repo/Game
 
 **Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)**
 
