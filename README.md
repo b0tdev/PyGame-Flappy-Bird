@@ -65,6 +65,7 @@ _Run This Command_
 
 `pip install Pygame`
 
+
 After Completion Click Clone or dowmload Button on this Repo
 
 <div align="center">
@@ -85,6 +86,10 @@ Then Extract The Files Via
 * Ex File Explorer
 
 **For Mobile Users Please Visit [WIKI](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
+
+## Requirement.txt
+
+**As the Issue Found in this code is now solved Please See [requirement.txt](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/requirement.txt)
 
 ### Associater and Notes
 
