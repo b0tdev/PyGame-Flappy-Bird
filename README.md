@@ -98,6 +98,10 @@ _We Expecte More contributors. To Become Contributor Just Pull Request!!_
 
 _If any Issue regarding this Repo/Code Please Let us Know_
 
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/b0tdev/PyGame-Flappy-Bird.svg?color=brightgreen&logo=ISSUE%20&logoColor=blue&style=for-the-badge">
+</a>
+
 <div align="center">
   <img src="https://i.imgur.com/xDg7m24.png" align="center">
 <br>
