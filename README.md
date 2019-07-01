@@ -93,7 +93,7 @@ Then Extract The Files Via
 
 ## Requirement.txt
 
-**As the Issue Found in this code is now solved Please See [requirement.txt](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/requirement.txt)**
+**As the Issue Found in this code is now solved Please See [requirements.txt](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/requirements.txt)**
 
 ### Associater and Notes
 
