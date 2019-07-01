@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/github/stars/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
+<a href="https://img.shields.io/badge/Py%20VERSION-3.7.2-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Py%20VERSION-3.7.2-brightgreen.svg">
+</a>
+
+</div>
+
+<div align="center">
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
 <br>
 </div>
