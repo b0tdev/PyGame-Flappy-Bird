@@ -6,11 +6,12 @@
   <br>
   <strong><i>A Classic Old Flappy_Bird Game.</i></strong>
   <br>
-  <br>
+  
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/b0tdev/PyGame-Flappy-Bird.svg?label=LICENSE&style=for-the-badge">
+</a>
 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/b0tdev/PyGame-Flappy-Bird.svg?label=ISSUES&style=flat-square)
 
-<br>
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
 <br>
 </div>
