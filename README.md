@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/github/license/b0tdev/PyGame-Flappy-Bird.svg?label=LICENSE&style=for-the-badge">
 </a>
 
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/stargazers">
+  <img src="https://img.shields.io/github/forks/b0tdev/PyGame-Flappy-Bird.svg?label=FORKS&style=for-the-badge">
+</a>
+
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/stars/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
+</a>
 
 <img src='http://i.imgur.com/RZFFuJW.png' align='center' width=500>
 <br>
