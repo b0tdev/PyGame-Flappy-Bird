@@ -37,11 +37,13 @@
 <br>
 </div>
 
-**Star The Repository Befor Going to!!!**
+**Star The Repository Before
+ Going to!!!**
 
 # About This Repo/Game
 
-**Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)**
+**Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)
+This Game Is Superb**
 
 ### Features 
 
