@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/github/license/b0tdev/PyGame-Flappy-Bird.svg?label=LICENSE&style=for-the-badge">
 </a>
 
-<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/stargazers">
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/network/members">
   <img src="https://img.shields.io/github/forks/b0tdev/PyGame-Flappy-Bird.svg?label=FORKS&style=for-the-badge">
 </a>
 
-<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE">
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/stargazers">
   <img src="https://img.shields.io/github/stars/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
