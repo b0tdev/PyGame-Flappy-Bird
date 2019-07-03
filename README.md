@@ -37,13 +37,9 @@
 <br>
 </div>
 
-**Star The Repository Before
- Going to!!!**
+# PyGame-Flappy-Bird
 
-# About This Repo/Game
-
-**Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)
-This Game Is Superb Game With Good graphics and sound Effects. For More Information Se Below!**
+This Game is classic game with All Features. This can be customizable Code. Stable Code with no issues. Thanks to my Friend Vennice#0303 for the code association. For More Information See Below. Don't Forget to Star the Repo Guys 😉
 
 ### Features 
 
@@ -75,10 +71,7 @@ tar -xzf pycharm-2019.1.3.tar.gz
 <br>
 </div>
 
-_Run This Command_
-
-`pip install Pygame`
-
+For Installing Module Please Visit requirements.txt file
 
 After Completion Click Clone or dowmload Button on this Repo
 
@@ -100,18 +93,6 @@ Then Extract The Files Via
 * Ex File Explorer
 
 **For Mobile Users Please Visit [WIKI](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
-
-## Requirement.txt
-
-**As the Issue Found in this code is now solved Please See [requirements.txt](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/requirements.txt)**
-
-### Associater and Notes
-
-**Code Associate :- Vennice#0303**
-
-**For Mobile Version See [Wiki](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
-
-***
 
 ### Issues
 
