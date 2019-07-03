@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/github/repo-size/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
 </a>
 
+
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird.git">
   <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Django.svg?style=for-the-badge">
 </a>
