@@ -43,7 +43,7 @@
 # About This Repo/Game
 
 **Pygame Flappy-Bird Is Game Made from Python. You Can Also Make Your Own Game By Visiting [Main.py](https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/main.py)
-This Game Is Superb**
+This Game Is Superb Game With Good graphics and sound Effects. For More Information Se Below!**
 
 ### Features 
 
@@ -129,7 +129,6 @@ _If any Issue regarding this Repo/Code Please Let us Know_
 
 ***
 
-<div align="center">
-  <img src="https://i.imgur.com/xDg7m24.png" align="center">
-<br>
-</div>
+### Contribution Towards this Repo
+
+![GitHub Contributors](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
