@@ -7,9 +7,6 @@
   <strong><i>A Classic Old Flappy_Bird Game.</i></strong>
   <br>
   
-<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/b0tdev/PyGame-Flappy-Bird.svg?label=LICENSE&style=for-the-badge">
-</a>
 
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird/network/members">
   <img src="https://img.shields.io/github/forks/b0tdev/PyGame-Flappy-Bird.svg?label=FORKS&style=for-the-badge">
