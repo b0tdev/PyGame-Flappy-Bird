@@ -131,4 +131,6 @@ _If any Issue regarding this Repo/Code Please Let us Know_
 
 ### Contribution Towards this Repo
 
-![GitHub Contributors](https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors)
+<a href="https://github.com/b0tdev/PyGame-Flappy-Bird/graphs/contributors">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
+</a>
