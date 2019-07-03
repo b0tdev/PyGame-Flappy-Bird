@@ -73,7 +73,7 @@ tar -xzf pycharm-2019.1.3.tar.gz
 
 For Installing Module Please Visit requirements.txt file
 
-After Completion Click Clone or dowmload Button on this Repo
+After Completion Click Clone or download Button on this Repo
 
 <div align="center">
   <img src="https://i.imgur.com/1ZuOt3d.png" align="center">
@@ -92,7 +92,7 @@ Then Extract The Files Via
 * Zarchiever(pc version)
 * Ex File Explorer
 
-**For Mobile Users Please Visit [WIKI](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
+**For Mobile Please Visit [Installation Guide For Mobile Version](https://github.com/b0tdev/PyGame-Flappy-Bird/wiki/Mobile-Code-for-Flappy-Bird-Game)**
 
 ### Issues
 
