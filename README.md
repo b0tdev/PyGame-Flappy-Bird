@@ -113,11 +113,7 @@ Then Extract The Files Via
 
 ***
 
-### Contributors and Issue Note
-
-**Contributors**
-
-_We Expecte More contributors. To Become Contributor Just Pull Request!!_
+### Issues
 
 **Issue**
 
