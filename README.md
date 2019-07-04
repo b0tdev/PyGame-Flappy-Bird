@@ -11,10 +11,12 @@
 <a href="https://img.shields.io/github/languages/top/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
  </a>
-
+ 
+ 
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird/network/members">
   <img src="https://img.shields.io/github/forks/b0tdev/PyGame-Flappy-Bird.svg?label=FORKS&style=for-the-badge">
 </a>
+
 
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird/stargazers">
   <img src="https://img.shields.io/github/stars/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
@@ -28,6 +30,7 @@
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird.git">
   <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Django.svg?style=for-the-badge">
 </a>
+
 
 <a href="https://github.com/b0tdev/PyGame-Flappy-Bird/pulls">
   <img alt="Pull_Req" src="https://img.shields.io/github/issues-pr/b0tdev/PyGame-Flappy-Bird.svg?style=for-the-badge">
